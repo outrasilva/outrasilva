@@ -1,13 +1,9 @@
-👋 Hello, I'm Jessica!
+I'm studying Systems Analysis and Development at PUC Minas and I have been pre-selected for the 7th class of Dio Campus Expert.
 
-🧪 A Pharmacy graduate who decided to embark on the programming journey 💻🌟.
+My skills include:
 
-🚀 Currently, I'm exploring the vast world of web development with a focus on:
-
-- Front-end: HTML, CSS, JavaScript
-- Design tools: Canva and Figma
-
-💡 My passion for problem-solving and creation has led me on an exciting path in the tech world.
-
-🔍 I'm always in search of challenges and learning opportunities, so if you want to collaborate on interesting projects or just have a chat, feel free to get in touch!
+💡 Computational thinking;
+🎨 Design with Figma;
+💻 Proficiency in HTML and CSS;
+📚 Ongoing study of C#.
 
