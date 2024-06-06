@@ -6,7 +6,7 @@ I'm Jéssica, a Systems Analysis and Development student at PUC Minas.
 - 💡 Skilled in computational thinking.
 - 🎨 Proficient in design with Figma.
 - 💻 Experienced in HTML and CSS.
-- 📚 Currently expanding my knowledge in C#.
+- 📚 Currently expanding my knowledge in JS.
 
 ## Get in Touch
 
