@@ -14,7 +14,7 @@
   <img align="center" alt="Jess-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jess-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jess-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
-  <img align="right" alt="Jess-Kawaii" width="100" src="https://github.com/user-attachments/assets/a4fc2300-bcf3-472b-948b-22b8518d9397" />
+  <img align="right" alt="Jess-Kawaii" width="80" src="https://github.com/user-attachments/assets/03934f51-a454-4ba8-a63d-e54be348dd8c" />
 </div>
 
 ##
