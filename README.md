@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/outrasilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=outrasilva&show_icons=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outrasilva&layout=compact&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=outrasilva&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outrasilva&layout=compact&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
