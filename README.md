@@ -1,26 +1,39 @@
 ## Hello, I'm Jessica Silva!
 
-<div>
-  <a href="https://github.com/outrasilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=outrasilva&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outrasilva&layout=compact&theme=dracula"/>
+<div align="center">
+
+<!-- Decorativo. Depende de uma API externa (readme-typing-svg) e PODE cair.
+     Se quiser 100% estável, apague este bloco <img> e deixe só o título acima. -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=FF2079&center=true&vCenter=true&width=440&lines=Software+%26+Game+Dev" alt="typing" />
+
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jess-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-  <img align="center" alt="Jess-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Jess-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Jess-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">            
-  <img align="center" alt="Jess-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jess-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jess-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
-  <img align="right" alt="Jess-Kawaii" width="80" src="https://github.com/user-attachments/assets/03934f51-a454-4ba8-a63d-e54be348dd8c" />
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-BC13FE?style=for-the-badge&logo=csharp&logoColor=00FFF0)
+![.NET](https://img.shields.io/badge/ASP.NET_Core-0D0221?style=for-the-badge&logo=dotnet&logoColor=FF2079)
+![Godot](https://img.shields.io/badge/Godot-0D0221?style=for-the-badge&logo=godotengine&logoColor=00FFF0)
+![React](https://img.shields.io/badge/React-FF2079?style=for-the-badge&logo=react&logoColor=0D0221)
+![JavaScript](https://img.shields.io/badge/JavaScript-BC13FE?style=for-the-badge&logo=javascript&logoColor=0D0221)
+![MongoDB](https://img.shields.io/badge/MongoDB-00FFF0?style=for-the-badge&logo=mongodb&logoColor=0D0221)
+![MySQL](https://img.shields.io/badge/MySQL-BC13FE?style=for-the-badge&logo=mysql&logoColor=0D0221)
+![Docker](https://img.shields.io/badge/Docker-FF2079?style=for-the-badge&logo=docker&logoColor=0D0221)
+![Figma](https://img.shields.io/badge/Figma-0D0221?style=for-the-badge&logo=figma&logoColor=BC13FE)
+![Git](https://img.shields.io/badge/Git-00FFF0?style=for-the-badge&logo=git&logoColor=0D0221)
+
 </div>
 
-##
+---
 
-<div> 
-  <a href = "mailto:jeryuuka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devjessicasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/outrasilva/outrasilva/main/metrics.svg" alt="github metrics" />
 </div>
 
+---
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-BC13FE?style=for-the-badge&logo=gmail&logoColor=0D0221)](mailto:jeryuuka@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFF0?style=for-the-badge&logo=linkedin&logoColor=0D0221)](https://linkedin.com/in/devjessicasilva)
+
+</div>
