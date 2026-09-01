@@ -18,7 +18,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
           template: classic
-          base: 'header, activity, community, repositories, metadata'
+          base: 'repositories'
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_limit: 6
+          plugin_languages_details: percentage
           plugin_languages_analysis_timeout: 15
